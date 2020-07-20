@@ -1,1 +1,2 @@
 # V310-Hackintosh
+I5-7200U,HDD,AC-3165
