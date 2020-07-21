@@ -13,7 +13,7 @@
 
 *可以直接使用此EFI引导安装程序
 
-*自行定制USBPorts，默认加入
+*自行定制USBPorts，默认加入usbinjectall
 
 *自行注入三码以登录Apple ID
 
