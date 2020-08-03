@@ -5,7 +5,7 @@
 | Memory   | 12 GB 2133 MHz DDR4          |
 | Storage  | 1TB WD 5400RMP HDD           |
 | Wireless | INTEL AC3165 Wifi&Bluetooth  |
-| 备注     | 单电池                        |
+| 备注     | 单电池      |
 | 支持系统 | Catalina 10.15.6-Clover-5119 |
 
 
@@ -13,11 +13,9 @@
 
 ## Intel无线
 
-·Intel蓝牙
+·Intel蓝牙&无线网卡
 
 https://github.com/OpenIntelWireless/itlwm
-
-·Intel无线网卡
 
 https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
