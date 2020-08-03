@@ -23,26 +23,4 @@ http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662
 
 *IntelBluetoothFirmware.kext，IntelBluetoothInjector.kext，itlwm.kext三个kexts文件过大，独立打包在IntelWireless.zip中。解压后放入kexts文件夹
 
-*iitlwm.kext配置方法（来自远景论坛）
-
-第一步,找到驱动右键,显示包内容:
-
-第二步,找到info.plist,打开编辑
-
-第三步,用xcode或plisteditor编辑（如itlwm.png所示）将密码跟ssid换成你的Wi-Fi即可
-
-第四步,用命令加载或者丢到clover/oc的kext目录下重启即可自动连接上Wi-Fi.
-
-*如果在使用过程中需要添加Wi-Fi但是又不想重启,可以用以下命令卸载,然后编译好之后再次加载
-
-卸载: 
-
-sudo kextunload -b com.zxystd.itlwm
-
-加载: 
-
-sudo chown -R root:wheel itlwm.kext
-
-sudo kextutil -v 6 itlwm.kext
-
 ##  
