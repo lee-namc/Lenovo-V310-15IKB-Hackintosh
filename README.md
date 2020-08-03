@@ -1,21 +1,13 @@
 # Lenovo V310-15IKB Hackintosh
 
 | CPU      | i5-7200U                     |
-| -------- | ---------------------------- |
 | GPU      | HD620 2048 MB                |
 | Memory   | 12 GB 2133 MHz DDR4          |
 | Storage  | 1TB WD 5400RMP HDD           |
 | Wireless | INTEL AC3165 Wifi&Bluetooth  |
-| 备注     | 单电池，屏蔽独立显卡         |
+| 备注     | 单电池                        |
 | 支持系统 | Catalina 10.15.6-Clover-5119 |
 
-*HDMI&VGA未测试
-
-*可以直接使用此EFI引导安装程序
-
-*自行定制USBPorts，默认加入usbinjectall
-
-*自行注入三码以登录Apple ID
 
 
 
@@ -56,11 +48,3 @@ sudo chown -R root:wheel itlwm.kext
 sudo kextutil -v 6 itlwm.kext
 
 ##  
-
-## HiDPI
-
-https://github.com/xzhih/one-key-hidpi
-
-
-
-**参考**
