@@ -9,6 +9,8 @@
 | Wireless | INTEL AC3165                 |
 | 操作系统 | Catalina 10.15.6-Clover-5119 |
 
+更换序列号以登录Apple ID
+
 ## 已知不工作
 
 SD读卡器
