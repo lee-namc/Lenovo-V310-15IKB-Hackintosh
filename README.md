@@ -11,6 +11,8 @@
 
 更换序列号以登录Apple ID
 
+天翼云盘 http://dwz.win/KFh
+
 ## 已知不工作
 
 SD读卡器
