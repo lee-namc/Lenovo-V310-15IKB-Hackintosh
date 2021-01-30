@@ -3,17 +3,17 @@
 | 规格     | 详细信息                     |
 | -------- | ---------------------------- |
 | CPU      | i5-7200U                     |
-| GPU      | HD620                        |
+| GPU      | HD 620                       |
 | Memory   | 12 GB                        |
 | Storage  | 1TB WD 5400RPM HDD           |
 | Wireless | INTEL AC3165                 |
-| 操作系统 | Catalina 11.1-Clover-5126    |
+| 操作系统 | Big Sur 11.0.1-Clover-5126  |
 
 更换序列号以登录Apple ID
 
 天翼云盘：网址稍后添加
 
-## 已知不工作
+## 不工作
 
 SD读卡器
 
@@ -23,7 +23,7 @@ VGA
 
 ## 可能不适用于
 
-安装了双电池的设备
+配备双电池的设备
 
 
 
@@ -40,20 +40,22 @@ Boot > ATA HDD调至第一顺序
 
 
 ## 显卡
-
+笔记本内建显示器色彩有断层，注入EDID/使用0x1916均无法解决
 
 
 
 
 ## Intel无线
 
-·Intel蓝牙&无线网卡
+·Intel Dual Band Wireless-AC 3165
 
 https://github.com/OpenIntelWireless/itlwm
 
 https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
-## 驱动由itlwm换为AirportItlwm，不再需要Heliport，但不支持接力和隔空投送
+## 驱动由itlwm换为AirportItlwm集成在EFI中，不再需要Heliport。使用此EFI需重新登录Apple ID，这样才能启用AppleWatch的解锁功能（不稳定且未测试）。随航、接力在本人设备上均无效果，隔空投送仅能显示出设备，但无实际作用
+
+
 
 
 
