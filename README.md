@@ -11,6 +11,8 @@
 
 更换序列号以登录Apple ID
 
+睡眠效果奇怪
+
 天翼云盘：网址稍后添加
 
 ## 不工作
@@ -49,11 +51,17 @@ Boot > ATA HDD调至第一顺序
 
 ·Intel Dual Band Wireless-AC 3165
 
+可用功能
+
+Wi-Fi 802.11n（速度发挥有限）
+
+定位
+
 https://github.com/OpenIntelWireless/itlwm
 
 https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
-## 驱动由itlwm换为AirportItlwm集成在EFI中，不再需要Heliport。使用此EFI需重新登录Apple ID，这样才能启用AppleWatch的解锁功能（不稳定且未测试）。随航、接力在本人设备上均无效果，隔空投送仅能显示出设备，但无实际作用
+## 驱动已集成在EFI中，不再依赖"Heliport"应用程序。使用此EFI需重新登录Apple ID以启用AppleWatch的解锁功能（不稳定且未测试）。随航、接力在Wi-Fi下的本人设备上均无效果，隔空投送可以显示出设备名称但不工作。
 
 
 
@@ -61,7 +69,7 @@ https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 ## USB
 
-若有问题，可重新定制USBPorts.kext
+若有问题，用Hackintool重新定制USBPorts.kext即可
 
 
 
@@ -71,9 +79,11 @@ https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 
 
-## HiDPI
+## HiDPI（可选）
 
 https://github.com/xzhih/one-key-hidpi
+
+放大有点夸张，建议使用UHD显示器体验原生HiDPI
 
 
 
