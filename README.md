@@ -7,11 +7,11 @@
 | Memory   | 12 GB                        |
 | Storage  | 1TB WD 5400RPM HDD           |
 | Wireless | INTEL AC3165                 |
-| 操作系统 | Catalina 10.15.6-Clover-5119 |
+| 操作系统 | Catalina 11.1-Clover-5126    |
 
 更换序列号以登录Apple ID
 
-天翼云盘 http://dwz.win/KFh
+天翼云盘：网址稍后添加
 
 ## 已知不工作
 
@@ -19,7 +19,7 @@ SD读卡器
 
 ## 未测试
 
-HDMI和VGA
+VGA
 
 ## 可能不适用于
 
@@ -41,7 +41,7 @@ Boot > ATA HDD调至第一顺序
 
 ## 显卡
 
-核心显卡仿冒0x19160000（Intel HD Graphics 520）以解决色彩过渡问题
+
 
 
 
@@ -53,7 +53,7 @@ https://github.com/OpenIntelWireless/itlwm
 
 https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
-## 安装附件中的三个无线驱动和“Heliport”应用程式即可，intel.zip中itlwm.kext为8月2日版本，蓝牙驱动版本不是最新版，未包含Heliport应用程式
+## 驱动由itlwm换为AirportItlwm，不再需要Heliport，但不支持接力和隔空投送
 
 
 
@@ -65,7 +65,7 @@ https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 ## 触摸板
 
-手势尚未修改
+手势尚未修改（平日用鼠标）
 
 
 
@@ -82,4 +82,4 @@ https://github.com/xzhih/one-key-hidpi
 cd /tmp && curl -s https://raw.githubusercontent.com/Piker-Alpha/freqVectorsEdit.sh/master/freqVectorsEdit.sh > /tmp/freqVectorsEdit.sh && chmod +x freqVectorsEdit.sh && /tmp/freqVectorsEdit.sh && sudo rm -rf /tmp/freqVectorsEdit.sh && sudo rm -rf /tmp/Mac-*.bin
 
 ## 此EFI文件经测试可用
-Aug 11,2020
+Jan 30,2021
