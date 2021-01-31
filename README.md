@@ -89,15 +89,15 @@ https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 · 随航**(Sidecar)**在**Wi-Fi**下不可用，隔空投送可以显示出设备名称但不可用。
 
-![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/blob/master/Screenshots/Wi-Fi系统信息.png)
+![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/Wi-Fi系统信息.png)
 
-![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/blob/master/Screenshots/随航（Wi-Fi下不可用）.png)
+![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/随航（Wi-Fi下不可用）.png)
 
 ## USB
 
 若有问题，用Hackintool重新定制USBPorts.kext即可
 
-![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/blob/master/Screenshots/USB.png)
+![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/USB.png)
 
 ## 触摸板
 
