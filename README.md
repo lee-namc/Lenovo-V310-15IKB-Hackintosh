@@ -15,13 +15,13 @@
 
 ### 天翼云盘：
 
-#### **EFI**
+#### EFI下载
 
 https://cloud.189.cn/t/QrmQRzmqUfyy
 
-#### Intel Wireless
+#### Intel Wireless驱动
 
-https://cloud.189.cn/t/YrqUvaYvaEja
+https://cloud.189.cn/t/eiMR7vUf2iUn
 
 ![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/概览.png)
 
@@ -92,6 +92,8 @@ https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 ![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/Wi-Fi系统信息.png)
 
 ![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/随航（Wi-Fi下不可用）.png)
+
+![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/隔空投送（不可用）.png)
 
 ## USB
 
