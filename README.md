@@ -19,7 +19,7 @@
 
 https://cloud.189.cn/t/QrmQRzmqUfyy
 
-#### **Intelwireless**
+#### Intel Wireless
 
 https://cloud.189.cn/t/YrqUvaYvaEja
 
@@ -61,7 +61,7 @@ Boot > ATA HDD调至第一顺序
 
 
 
-## **Intel**无线
+## Intel无线
 
 ·Intel Dual Band Wireless-AC 3165
 
@@ -79,15 +79,15 @@ https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 注释：
 
-· 驱动不再依赖**"Heliport"**应用程序，请删除"Heliport"。
+· 驱动不再依赖"Heliport"应用程序，请删除"Heliport"。
 
-· 使用此**EFI**后需重新登录**Apple ID**以启用以下功能
+· 使用此EFI后需重新登录Apple ID以启用以下功能
 
-  **AppleWatch**解锁（不稳定且未测试）
+  Apple Watch解锁（不稳定且未测试）
 
-  接力**——Handoff**
+  接力——Handoff
 
-· 随航**(Sidecar)**在**Wi-Fi**下不可用，隔空投送可以显示出设备名称但不可用。
+· 随航(Sidecar)在Wi-Fi下不可用，隔空投送可以显示出设备名称但不可用。
 
 ![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/Wi-Fi系统信息.png)
 
@@ -105,7 +105,7 @@ https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 
 
-## **HiDPI**（可选）
+## HiDPI（可选）
 
 https://github.com/xzhih/one-key-hidpi
 
@@ -113,6 +113,6 @@ https://github.com/xzhih/one-key-hidpi
 
 
 
-### 此**EFI**文件经测试可用
+### 此EFI文件经测试可用
 
 #### Jan 30,2021
