@@ -15,13 +15,7 @@
 
 ### 天翼云盘：
 
-#### EFI下载
-
-https://cloud.189.cn/t/QrmQRzmqUfyy
-
-#### Intel Wireless驱动
-
-https://cloud.189.cn/t/eiMR7vUf2iUn
+http://dwz.win/KFh
 
 ![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/概览.png)
 
