@@ -23,7 +23,7 @@ https://cloud.189.cn/t/QrmQRzmqUfyy
 
 https://cloud.189.cn/t/YrqUvaYvaEja
 
-![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/blob/master/Screenshots/概览.png)
+![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/概览.png)
 
 ## 不工作
 
