@@ -7,7 +7,7 @@
 | Memory   | 12 GB                    |
 | Storage  | 1TB WD 5400RPM HDD       |
 | Wireless | INTEL AC3165             |
-| 操作系统 | Big Sur 11.1-Clover-5126 |
+| 操作系统 | Monterey-OpenCore-0.8.0  |
 
 ### 注入序列号以登录Apple ID!
 
