@@ -17,11 +17,13 @@
 
 http://dwz.win/KFh
 
-![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/概览.png)
+![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/OVERVIEW.png)
 
 ## 不工作
 
 SD读卡器
+
+4k@60hz输出（dvmt改到64m也无法识别出4k分辨率）
 
 
 
@@ -51,7 +53,7 @@ Boot > ATA HDD调至第一顺序
 
 ## 显卡
 
-笔记本内建显示器色彩有断层，注入EDID/使用0x1916均无法解决
+基本正常，hevc加速不可用
 
 
 
@@ -59,9 +61,9 @@ Boot > ATA HDD调至第一顺序
 
 ·Intel Dual Band Wireless-AC 3165
 
-可用功能
+![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/WIFI.png)
 
-Wi-Fi 802.11n（速度发挥有限）
+![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/ITLWM.png)
 
 定位
 
@@ -77,11 +79,11 @@ https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 · 使用此EFI后需重新登录Apple ID以启用以下功能
 
-  Apple Watch解锁（不稳定且未测试）
+  接力：在Monterey中不能工作，推测是驱动问题
 
-  接力——Handoff
+· 随航(Sidecar)在Wi-Fi下不可用，USB连接正常
 
-· 随航(Sidecar)在Wi-Fi下不可用，隔空投送可以显示出设备名称但不可用。
+  隔空投送可以显示出设备名称但不可用。
 
 ![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/Wi-Fi系统信息.png)
 
@@ -97,18 +99,18 @@ https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 ## 触摸板
 
-手势尚未修改（平日用鼠标）
+手势尚未修改（平日用鼠标），大多数可以使用
 
 
 
 ## HiDPI（可选）
 
-https://github.com/xzhih/one-key-hidpi
+![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/HIDPI.png)
 
-放大有点夸张，建议使用UHD显示器体验原生HiDPI
+https://github.com/xzhih/one-key-hidpi
 
 
 
 ### 此EFI文件经测试可用
 
-#### Jan 30,2021
+#### Apr 30,2022
