@@ -9,13 +9,7 @@
 | Wireless | INTEL AC3165             |
 | 操作系统 | Big Sur 11.1-Clover-5126 |
 
-### 注入序列号以登录Apple ID
-
-### 睡眠效果奇怪
-
-### 天翼云盘：
-
-http://dwz.win/KFh
+### 注入序列号以登录Apple ID!
 
 ![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/OVERVIEW.png)
 
@@ -33,9 +27,7 @@ VGA
 
 
 
-## 可能不适用于
-
-配备双电池的设备
+## 可能不适用于配备双电池的设备
 
 
 
@@ -53,7 +45,7 @@ Boot > ATA HDD调至第一顺序
 
 ## 显卡
 
-基本正常，hevc加速不可用
+基本正常，HEVC加速不可用
 
 
 
@@ -73,19 +65,15 @@ https://github.com/OpenIntelWireless/itlwm
 
 https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
-注释：
-
-· 驱动不再依赖"Heliport"应用程序，请删除"Heliport"。
+注：
 
 · 使用此EFI后需重新登录Apple ID以启用以下功能
 
-  接力：在Monterey中不能工作，推测是驱动问题
+· 接力：在Monterey中不能工作，推测是驱动问题
 
 · 随航(Sidecar)在Wi-Fi下不可用，USB连接正常
 
-  隔空投送可以显示出设备名称但不可用。
-
-![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/Wi-Fi系统信息.png)
+· 隔空投送可以显示出设备名称但不可用
 
 ![Image text](https://raw.githubusercontent.com/lee-namc/Lenovo-V310-15IKB-Hackintosh/master/Screenshots/随航（Wi-Fi下不可用）.png)
 
